@@ -1,4 +1,4 @@
-
+Enhance QEMU for macOS with smart Plugin for QEMU for macOS - clipboard-sharing and file-sharing, the #1 plugin. Includes clipboard-sharing and file-sharing for a smoother and
 
 
 
